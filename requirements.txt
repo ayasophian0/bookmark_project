@@ -1,8 +1,0 @@
-streamlit
-pandas
-openai
-youtube-transcript-api
-trafilatura
-playwright
-requests
-plotly
