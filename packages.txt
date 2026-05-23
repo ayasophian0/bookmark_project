@@ -1,0 +1,16 @@
+libasound2
+libatk-bridge2.0-0
+libgtk-3-0
+libnss3
+libx11-xcb1
+libdbus-glib-1-2
+libxss1
+libxcomposite1
+libxdamage1
+libxext6
+libxfixes3
+libxrandr2
+libgbm1
+libxcb-dri3-0
+libdrm2
+libxshmfence1
